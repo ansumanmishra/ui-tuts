@@ -1,7 +1,7 @@
 # ui-tuts
 
 Version 1
-
+==========
 HTML5, CSS3
 Bootstrap
 Angular js 1.x
@@ -21,13 +21,13 @@ User CRUD operation
 Note - Install Angular or any other dependency through bower
 
 Version 2
-
+==========
 1 - Replacing php with Node js & Express
 
 Version 3
-
+==========
 1 - Replacing Angular 1.x with angular 4
 
 Version 4
-
+==========
 1 - Use Gulp for build process
